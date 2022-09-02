@@ -1,3 +1,2 @@
-ls -d */
 #!/bin/bash
 ls -d */
